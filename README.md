@@ -47,7 +47,6 @@ node index.js
 Here's an example of how you can use the terminal application:
 
 ```bash
-Copy code
 node index.js
 Enter up to three characters for the logo text: ABC
 Enter the text color (keyword or hexadecimal): red
