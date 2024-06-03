@@ -19,8 +19,8 @@ Here's how you can use the SVG Shape Generator in your Node.js projects:
 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone git@github.com:juanycorn/Logo-Generator.git
+cd Logo-Generator
 ```
 Navigate to the Project Directory
 ```bash
@@ -47,7 +47,6 @@ node index.js
 Here's an example of how you can use the terminal application:
 
 ```bash
-Copy code
 node index.js
 Enter up to three characters for the logo text: ABC
 Enter the text color (keyword or hexadecimal): red
@@ -61,3 +60,4 @@ Make sure you have Node.js installed on your system.
 Follow the prompts and provide the required information as requested by the application.
 
 ## Video
+[example video](https://app.screencastify.com/v3/watch/0xgl5ZUuqJFuwfsjRQs0)
